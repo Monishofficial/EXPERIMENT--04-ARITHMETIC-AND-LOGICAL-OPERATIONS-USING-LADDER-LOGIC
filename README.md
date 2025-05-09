@@ -1,11 +1,9 @@
 # EXPERIMENT--04-ARITHMETIC-AND-LOGICAL-OPERATIONS-USING-LADDER-LOGIC
-#  NAME: MONISH N
 
-# REGISTER NUMBER: 212223240097
-
-# DEPARTMENT: AI&ML
-
-# YEAR: 2
+###  NAME: MONISH N
+### REGISTER NUMBER: 212223240097
+### DEPARTMENT: AI&ML
+### YEAR: 2
 
 ## Aim:
 To understand and implement various arithmetic and logical operations in Programmable Logic Controller (PLC) ladder logic.
